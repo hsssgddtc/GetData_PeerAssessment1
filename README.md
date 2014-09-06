@@ -4,7 +4,7 @@ on
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==============================================================
-by Themos Patrikios
+by Sky Hai
 ==============================================================
 
 The run_analysis.R script reads data from the "Human Activity Recognition Using Smartphones Dataset Version 1.0" and produces a new - tidy - dataset which may be used for further analysis.
@@ -68,4 +68,4 @@ Use of the resulting dataset "tidy_movement_data.txt" in publications must be ac
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the author for its use or misuse. Any commercial use is prohibited.
 
 ============================
-Themos Patrikios, April 2014
+Sky Hai, April 2014
